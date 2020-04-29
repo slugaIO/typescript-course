@@ -1,2 +1,2 @@
-# typescript-course
+# Unterlagen zum TypeScript Kurs
 TypeScript Kurs
